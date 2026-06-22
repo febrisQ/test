@@ -1,5 +1,5 @@
 <?php
 
-$message = "Hello from base version";
+$message = "Hello from main";
 
 echo $message;
